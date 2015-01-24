@@ -36,6 +36,9 @@ Partial Class radioControlForm
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
+        'radioPort
+        '
+        '
         'portSelector
         '
         Me.portSelector.FormattingEnabled = True
